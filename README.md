@@ -1,1 +1,7 @@
-# tf-docker-ec2
+### Terraform commands
+
+        terraform init
+
+        terraform plan
+
+        terraform apply --auto-approve
